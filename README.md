@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taniapyrohova998
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning PWA, React, GraphQL 
+- 🌱 I’m currently learning Magento, PWA, React, GraphQL 
 - 💞️ I’m looking to collaborate on ...
 
 <!---
