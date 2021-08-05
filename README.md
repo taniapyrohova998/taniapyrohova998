@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taniapyrohova998
+- 👋 Hi, I’m Tetiana, Magento Software Engineer
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Magento, PWA, React, GraphQL 
 - 💞️ I’m looking to collaborate on ...
